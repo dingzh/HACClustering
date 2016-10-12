@@ -1,0 +1,633 @@
+size of data for clustering:  561
+Cluster 0:
+gdpr guaranteed day of purchase rule domestic psgr transportation is subject to percent of the fare .
+waiver for illness only applies in the event of certifiable hospitalization .
+apply the highest change fee of all changed fare components within the journey .
+fr/fu conditions of the higher cabin fare have been mereissue fee will be waived in this case .
+for nonrefundable tickets the yq/yr carrier imposed surcharge will not be refunded full refund permitted at least 24hrs before departure in case of rejection of visa .
+use historical fares in effect on the date permitted with no charge .
+the charge is waived in the case of a ticket upgrade .
+use historical fares in effect on the date of org tkt issue for all rule validation .
+in case of a ticket upgrade the original nonrefundable amount remains nonrefundable .
+for option 1 the original nonrefundable exchanged remains non refundablthe cancellation penalty must be printed in the endorsement box of the new ticket .
+full refund permitted at least 24hrs before departure in case of rejection of visa .
+note seat inventory must be available in the cabin applicable to the fare charged .
+reservation must be changed prior to the original travel date of the flight coupon/s / concerned .
+fr/fu fx/fox portion of the journey child fare has to be used for the entire journey .
+Cluster 1:
+xbb xpv/xpn xbn xpc illness/death waiver must be substantiated by a valid medical/death certificate fees do not apply to infants under 2 not occupying a seat .
+death waiver must be substantiated by a valid medical/death certificate cancellation fee does not apply to infants under 2 not occupying a seat .
+illness/death waiver must be substantiated by fees do not apply to infants under 2 not occupying a seat .
+per ticket charge for lost ticket application is usd 100.00 / cad 1400 a valid medical/death certificate cancellation fee does not apply to infants under 2 not occupying a seat .
+death waiver must be substantiated by a valid death certificate cancellation fee does not apply to infants under 2 not occupying a seat .
+illness/death waiver must be substantiated by a valid medical/death certificate fees do not apply to infants under 2 not occupying a seat .
+per ticket charge for lost ticket application is usd 100.00 / cad 1400 a valid medical/death certificate fees do not apply to infants under 2 not occupying a seat .
+illness/death waiver must be substantiated by a valid medical/death certificate cancellation fee does not apply to infants under 2 not occupying a seat .
+Cluster 2:
+value of original tkt may be applied towards purchase of new tkt .
+value of original tkt less chg fee may be applied towards purchase of new tkt .
+issue a new ticket/cancel and start over must use current fares/verify all rules including advance purchase value of original ticket less asc .
+issue a new ticket/cancel and start over including advance purchase value of original ticket less asc .
+ticket may not be applied towards purchase of any other tickeunused coupons have no residual value .
+ticket upgrade procedures value of tkt may be applied toward purchase of a higher fare any difference between original and recalculated fares must be collected .
+two options exist for re use/exchange of a wholly unused ticket towards purchase of a new ticket .
+ticket may not be applied towards purchase of any other ticket .
+reissue no change to 1st ticketed flight / wholly unused or partially used ticket a partially used ticket may not be applied towards purchase of a new ticket . .
+assess cancel penalty any remaining value may be refunded back to original form of payment or back on a residual mco or applied towards purchase of a new ticket priced at current fare levels .
+a partially used ticket may not be applied towards purchase of a new ticket . .
+a partially used ticket may not be applied towards purchase of a new ticket .
+Cluster 3:
+for nonrefundable tickets the yq/yr carrier imposed surcharge will not be refunded .
+the non ref fare amount less the cancellation fee will be returned as a non ref voucher for travel governed by dl only .
+amount paid on nonrefundable fare component will not be refunded . .
+the non ref fare amount less the cancellation travel governed by dl only .
+the amount paid on the non refundable fare compon ent will not be refunded .
+the amount paid on the refundable fare component will be refunded upon payment of the penalty amoun t if applicable .
+for non refundable tickets the yq/yr carrier imposed surcharge will not be refunded . .
+for nonrefundable tickets the yq/yr carrier imposed international surcharge will not be refunded .
+Cluster 4:
+reservations for a new itinerary are made and tickets reissued no later than 1 year of date of issue of the originally purchased ticket . .
+changes of only flight and date including any change of connect point may be made up to 30 minutes before departure of the new flight by ticket reissue without service charge .
+reservation for new itinerary must be made and tickets issued no later than 1year from issue date of ticket being exchanged . .
+cancellation fee tickets will become invalid/expired one year after the date of the first departure and may not be used or exchanged for transportation after that time and date .
+reservation for new itinerary must be made and tickets issued no later than 1year from issue date of ticket being exchanged .
+Cluster 5:
+changes only permitted from weekend to weekday .
+no changes permitted from weekday to weekend .
+the advance purchase of any replacement fare must be equal to or less than this number .
+upgrading to any higher fare or cabin permitted .
+1foc change permitted to inbound only for bookings made with travel beyond system range name change not permitted .
+any difference in tax would need to be collected or refunded if applicable . .
+no change is permitted to origin/destination .
+voluntary rebooking/rerouting is not permitted from point of origin to first stopover point in area 1 .
+changes may be made to transfer points .
+no changes permitted from weekend to weekday .
+no change permitted to origin/destination .
+upgrading permitted to any higher fare or cabin .
+any difference in tax would need to be collected or refunded if applicable .
+an xac may be upgd to xab or xac xpy xat .
+no change permitted to origin or destination .
+an xac may be upgd to xab or above .
+one change permitted without chargchanges from weekday to weekend not permitted .
+voluntary rebooking without ticket reissuance of other sectors at above listed penalty is permitted only once .
+no change may be made to the point of origin .
+must be same origin/destination changes from nonstop to connection are allowed only if the connecting point is permitted based on fare rules .
+all changes to bookings are required 24 hours prior to flight scheduled time .
+changes permitted to transfer point only .
+not permitted week day fare to change of its inbound travel date to week end .
+Cluster 6:
+ticket reissue procedures issue date replacement fares must be equal/higher fare type modified advance purchase determine applic .
+fare types at same level may not be used .
+changes before departure must be made by the ticketing agent only .
+tickets must be reissued when any voluntary change is made . .
+including advance purchase/min stay/max stay / seasonality/etc .
+note yr fee may apply the applicable fare for departure from hkg airport .
+all other rule data must be verified including fare combinability .
+same booking class as original flight must be available .
+all rule provisions of the new fare must be met including advance purchase/min stay/max stay / seasonality/etc .
+change penalty must be shown as a yr tax code on the ticket .
+if the upgraded ticket is subsequently cancelled the original penalty will apply .
+attempt to keep the fares as ticketed can not change origin/destination of any fare component compartment by adult 18 or older .
+chg fee will be assessed . .
+all rule provisions of the new fare must be met seasonality/etc .
+xpy can not be used as it is on same level .
+issue date replacement fares must be equal/higher fare type modified advance purchase determine applic .
+changes before departure must be made by the ticketing code base fare code plus ch25 .
+new confirmed departure time must still be on the same day as the original ticketed departure .
+subsequent changes will be charge at jpy 30000 . .
+reissue must be done within 24 hours after new reservation is made .
+refund must be made within 12 months from ticketin g date .
+all changes must be made in the original reservation .
+changes must be within ticket validity .
+xpy can not be used as it is on same level . .
+original booking class of service must be available on any changed flight segment .
+the applicable fare for departure from hkg airport .
+flights must be rebooked and ticket reissued at time of change . .
+must be accompanied on all flights in same compartment by contract bulk adult 18 or older .
+Cluster 7:
+per tkt charge for lost tkt application is usd 100.00 / cad 1400 family member .
+per tkt charge for lost tkt application is usd 100.00 / cad 1400 charge cny 800 .
+per tkt charge for lost tkt application is usd 100.00 / cad 1400 charge krw 89000 .
+per tkt charge for lost tkt application is usd 100.00 / cad 1400 charge usd 100.00 .
+per tkt charge for lost tkt application is usd 100.00 / cad 1400 charge cny 1500.0 .
+per tkt charge for lost tkt application is usd 100.00 / cad 1400 charge eur 150.00 .
+per tkt charge for lost tkt application is usd 100.00 / cad 1400 charge cad 250.00 .
+per tkt charge for lost tkt application is usd 100.00 / cad 1400 charge hkd 1500 .
+per tkt charge for lost tkt application is usd 100.00 / cad 1400 charge hkd 1600 .
+per tkt charge for lost tkt application is usd 100.00 / cad 1400 charge cad 300.00 .
+per tkt charge for lost tkt application is usd 100.00 / cad 1400 changes and cancellations permitted .
+per tkt charge for lost tkt application is usd 100.00 / cad 1400 / advp 3d / charge cny 1500 .
+per tkt charge for lost tkt application is usd 100.00 / cad 1400 ticket is non refundable .
+per tkt charge for lost tkt application is usd 100.00 / cad 1400 member .
+per tkt charge for lost tkt application is usd 100.00 / cad 1400 the bank rate at time of reissue for chgs due to illness or death of psgr/family member see intl gerule 65 for provisions .
+per tkt charge for lost tkt application is usd 100.00 / cad 1400 charge cny 1500 .
+per tkt charge for lost tkt application is usd 100.00 / cad 1400 charge usd 250.00 .
+per tkt charge for lost tkt application is usd 100.00 / cad 1400 charge jpy 25000 .
+per tkt charge for lost tkt application is usd 100.00 / cad 1400 charge aud 50.00 .
+Cluster 8:
+replacement fares for flown fare components must be of equal or higher value and booking class than the original ticketed fare .
+if different booking class new fare may be equal / higher than original fare and must comply with all provisions of new fare .
+new fare must be equal / higher than previous fare and must must comply with all provisions of originally ticketed fare or must comply with all provisions of the new fare being applied . .
+Cluster 9:
+applicable surcharge is subject to refund when hong kong is no longer a departing and/or stopover point as a result of cancellation/rerouting .
+first inbound change is free of charge .
+after departure first inbound change is free of charge .
+subsequent changes are usd120 per change per adult .
+child discounts do not apply/infant without a seat are free of charge .
+a valid medical or death certificate is required . .
+a change is a routing / date / flight modification .
+if result is lower due day of week or seasonality change .
+a valid medical certificate is required .
+first change is free of chargsubsequent changes are usd100 .00 per change .
+fares/taxes are subject to change and not guaranteed until a ticket is purchased .
+infant occupying a seat is not permitted on intern ational flts due to flat bed seating .
+if multiple changes are made at the same time only one change fee will apply per ticket . .
+the admin fee is applicable to any flight change charge hkd 2000 .
+note surcharge applies for each departure out of hong kong including through passengers with stopover in hong kong .
+infant not occupying a seat is not assessed a charge .
+when combining a refundable ticket with a non refu ndable ticke provisions will apply as follows .
+a valid medical certificate is required . .
+after travel has started using these fares a refund of the unused coupons is permitted after deducting a usd 150.00 service charge . .
+a valid medical or death certificate is required .
+Cluster 10:
+change fee does not apply no infant under 2yrs of age not occupying a seat .
+no change fee for infant under 2yrs of age not occupying a seaprior to departure all changes must be made by the ticketing agency .
+penalty does not apply to infants under 2 years of age not occupying a seat .
+cancellation fee does not apply to infants under 2years of age not occupying a seat . .
+change charges do not apply to infants under 2 yrs of age not occupying a seat .
+charge applies for adult child and infant occupying a seacharge including no show charge will not apply for infant not occupying a seat .
+change charges do not apply to infants under 2yrs of age not occupying a seat .
+penalty will not apply to infants under 2 not occupying a seat .
+penalty does not apply to infants under 2 yrs of age not occupying a seat .
+penalty will not apply to infants under 2 years of age not occupying a seat .
+no change fee for infants under age of 2 .
+change charges do no apply to infants under 2 years of age not occupying a seat .
+cancellation fee does not apply to infants under 2years of age not occupying a seat .
+cancellation fee does not apply to infants under 2 not occupying a seat .
+no fee for infants under the age of 2yrs not occupying a seat .
+no cancel fee for infant under 2yrs of age not occupying a seat .
+Cluster 11:
+lost ticket application fee for paper tickets is charge cad 200.00 .
+lost ticket application fee for paper tickets is charge cad 250.00 .
+lost ticket application fee for paper tickets is usd100 .00 / cad100 .00 charge cad 400.00 .
+lost ticket application fee for paper tickets is usd100 .00 / cad100 .00 charge usd 400.00 .
+lost ticket application fee for paper tickets is usd100 .00 / cad100 .00 charge eur 100.00 .
+lost ticket application fee for paper tickets is usd100 .00 / cad100 .00 charge eur 150.00 .
+lost ticket application fee for paper tickets is usd100 .00 / cad100 .00 note the usd150 .00 is an administrative service charge .
+lost ticket application fee for paper tickets charge usd 250.00 .
+lost ticket application fee for paper tickets is usd100 .00 / cad100 .00 member .
+lost ticket application fee for paper tickets is usd100 .00 / cad100 .00 note changes and cancellations permitted .
+lost ticket application fee for paper tickets is charge usd 400.00 .
+lost ticket application fee for paper tickets is usd100 .00 / cad100 .00 charge usd 250.00 / cad 250.00 .
+lost paper ticket charge usd100 .00 note the usd150 .00 is an administrative service charge .
+lost ticket application fee for paper tickets is usd100 .00 / cad100 .00 charge cad 250.00 .
+note the usd150 .00 is an administrative service charge .
+Cluster 12:
+fr/fu fx/fox br/bu bx/box bap bxn er/eu xex xes xap xpx xaw xps xan xpl xab xpb xac xpy xab xpb xac xpy xat .
+fr/fu fx/fox br/bu bx/box bap bxn er/eu xex xes xap xpx xaw xps xan xpl xab xpb xab xpb xac xpy xat .
+fr/fu fx/fox br/bu bx/box bap bxn er/eu xex xes xap xpx xaw xps xan xpl xab xpb xac xpy xat .
+fr/fu fx/fox br/bu bx/box bap bxn er/eu xex xes xap xpx xan xpl xab xpb xac xpy xat .
+fr/fu br/bu bx/box bap bxn er/eu xex xes xap xpx xaw xps xan xpl xab xpb xac xpy xat .
+fr/fu fx/fox br/bu bx/box bap bxn er/eu xex xes xap xpx xaw xps xan xpl xab xpb xac xpy note changes and cancellations permitted .
+fr/fu fx/fox br/bu bx/box bap bxn er/eu xex xes xap xpx xaw xps xan xpl xab xpb xac xpy note the usd100 .00 is an administrative service charge .
+fr/fu fx/fox br/bu bx/box bap bxn er/eu xex xes xap xpx xaw xps xan xpl xab xpb xac xpy / advp 7d / xat .
+fr/fu fx/fox br/bu bx/box bap bxn xex xes xap xpx xaw xps xan xpl xab xpb xac xpy xat .
+replacement fares for flown and unflown xex xes xap xpx xaw xps xan xpl xab xpb xac xpy xat .
+fr/fu fx/fox br/bu bx/box bap bxn er/eu xex xes xap xpx xaw xps xan xpl xab xpb xac xpy charge aud 330.00 for cancel .
+fr/fu fx/fox br/bu bx/box bap bxn er/eu xex xes xap xpx xaw xps xan xpl xat .
+fr/fu fx/fox br/bu bx/box bap bxn er/eu xex xes xap xpx xaw xps xan xpl xab xpb xac xpy note the usd150 .00 is an administrative service charge .
+fr/fu fx/fox br/bu bx/box bap bxn er/eu xex xes xap xpx xaw xps xab xpb xac xpy xat .
+fr/fu fx/fox br/bu bx/box bap bxn er/eu xex xes xap xpx xaw xps xan xpl xab xpb xac xpy all refunds must be processed through bsp by the ticketing agency .
+fr/fu fx/fox br/bu bx/box bap bxn er/eu xes xap xpx xaw xps xan xpl xab xpb xac xpy xat .
+fr/fu fx/fox br/bu bx/box bap bxn er/eu xex xes xap xpx xaw xps xan xpl xab xpb xat .
+fr/fu fx/fox br/bu bx/box bap bxn er/eu xex xes xap xpx xaw xps xan xpl xab xpb xac xpy charge hkd 2000 .
+fr/fu fx/fox br/bu bx/box bap bxn er/eu xex xes xap xpx xaw xps xan xpl xab xpb charge hkd 2000 .
+fr/fu fx/fox br/bu bap bxn er/eu xex xes xap xpx xaw xps xan xpl xab xpb xac xpy xat .
+fr/fu fx/fox br/bu bx/box bap bxn er/eu xex xes xap xpx xaw xps xan xpl xab xpb xac xpy charge usd 550.00 .
+fr/fu fx/fox br/bu bx/box bap bxn er/eu xex xes xap xpx xaw xps xan xpl xab xpb xac xpy all refunds must be processed through bsp by the ticketing agent .
+fr/fu fx/fox br/bu bx/box bap bxn er/eu xex xes xap xpx xaw xps xan xpl xab xpb / advp 7d / xac xpy xat .
+fr/fu fx/fox br/bu bx/box bap bxn er/eu xex xes xap xpx xaw xps xan xpl xab xpb xac xpy charge cad 250.00 .
+fr/fu fx/fox br/bu bx/box bap bxn er/eu xex xes xap xpx xaw xps xan xpl xac xpy xat .
+fr/fu fx/fox br/bu bx/box bap bxn er/eu xex xes xap xpx xaw xps xan xpl xab xpb xac xpy member .
+fr/fu fx/fox bap bxn er/eu xex xes xap xpx xaw xps xan xpl xab xpb xac xpy xat .
+fr/fu fx/fox br/bu bx/box bap bxn er/eu xex xes xaw xps xan xpl xab xpb xac xpy xat .
+fr/fu fx/fox br/bu bx/box bap bxn er/eu xex xes xap xpx xaw xps xan xpl xab xpb xac xpy charge hkd 1500 .
+fr/fu fx/fox br/bu bx/box bap bxn er/eu xex xes xap xpx xaw xps xan xpl xab xpb xac xpy the penalty applies when the group size falls below the minimum number .
+fr/fu fx/fox br/bu bx/box bap bxn er/eu xex xes xap xpx xaw xps xan xpl xab xpb xac xpy no cancel fee for infant under 2yrs of age not occupying a seat .
+fr/fu fx/fox br/bu bx/box bap bxn er/eu xex xes xap xpx xaw xps xan xpl xab xpb xac xpy changes and cancellations permitted .
+Cluster 13:
+all refunds must be processed thru bsp/arc by the ticketing agenrefunds apply to completely unused tickets as long as reservations have been cancelled prior to the ticketed flight departure time .
+refunds must be processed by ticketing agent .
+all refunds must be processed through bsp/arc by the ticketing agent .
+all refunds must be processed through arc by the ticketing agent .
+all refunds must be processed through bsp by the ticketing agency .
+refunds must be processed through bsp/arc by the ticketing agent .
+all refunds must be processed through the issuing agent .
+Cluster 14:
+if the new itin requalifies for the originally ticketed fare but results in a higher fare due to day of week or seasonality the difference in fare must be collected at time of reissue .
+if the new itin requalifies for the originally day of week or seasonality the difference in fare will be refunded back to original form of payment or back on a residual mco .
+changes resulting in a higher fare must be add collected at the time of reissue for fare type hierarchy see below must complete travel by 1 year from the date of charge cny 1500.0 .
+Cluster 15:
+where this fare is combined with another fare on a half roundtrip basis the most restrictive conditions apply to the entire journey .
+fares on a ticket from different rules with the same or different cancellation fees apply the highest fee of the cancelled itinerary .
+gdpr guaranteed day of purchase rule rules / fare/routings/charges / in effect on the day/time the ticket is issued/pta purchased unless specified in the fare rules .
+the fare is recalculated from point of origin the city where travel originated on the ticket being reissued . .
+the fare is recalculated from point of origin the city where travel originated on the ticket being reissued .
+Cluster 16:
+all travel on the changed itinerary is completed within one year from the date travel originated on the ticket being reissued . .
+if travel has commenced then the ticket must be reissued and all travel completed within 1 year from the date on which travel commenced . .
+all travel on the changed itinerary is travel originated on the ticket being reissued . .
+all travel on the revised itinerary is completed within 1 year from the date travel originated . .
+all travel on the changed itinerary is completed within one year from the date reissued . .
+Cluster 17:
+ticket reissue procedures chgs to outbound portion of unused tkts issue new tkt using current fares and iroe applicablverify all fare rules .
+ticket reissue procedures issue new tkt using current fares and iroe applicablverify all fare rules .
+ticket reissue procedures changes to outbound portion of unused tickets issue a new ticket cancel and start over must use current fares and iroe where appl ticketing code base fare code plus in .
+chgs to outbound portion of unused tkts issue new tkt using current fares and iroe applicablverify all fare rules .
+ticket reissue procedures chgs to outbound portion of unused tkts applicablverify all fare rules .
+Cluster 18:
+ticketing agent onlno changes are permitted to origin or destination or stopover points .
+changes before departure must be made by the ticketing agent onlno changes are permitted to origin or destination or stopover points .
+changes before departure must be made by the ticketing agent onlno changes are permitted to ticketing agent onlno changes are permitted to origin or destination or stopover points .
+all refunds must be processed through bsp by the ticketing agent onlno changes are permitted to origin or destination or stopover points .
+changes before departure must be made by ticketing agent onlno changes are permitted to origin or destination .
+changes before departure must be made by the ticke ting agent onlno changes are permitted to origi n or destination or stopover pointchange charge ccupying a seat .
+Cluster 19:
+ticket designator bncr .
+change charge for child usd94 .
+no show rules applplease see general rules on cancellations .
+charge aud 50.00 .
+lost charge cad 200.00 .
+charge usd 250.00 / cad 250.00 for cancel .
+for further info please check ggairlhpt11info .
+lost charge usd 250.00 .
+emabassy statement required .
+embassy statement required . .
+charge 25 percent .
+risk free cancellation policy does apply . .
+fr/fu fx/fox br/bu bx/box bap bxn er/eu xex xes member .
+including fare combinability .
+exception 1 .
+charge cad 300.00 for cancel .
+member .
+charge usd 250.00 for cancel .
+charge usd 40.00 for no show .
+and .
+child/infant discounts apply to penalty .
+charge usd 300.00 .
+charge cad 350.00 .
+charge usd 250.00 / cad 250.00 .
+child discounts apply .
+compartment by adult .
+charge cny 750.0 .
+changes are not allowed to origin/destination .
+charge aud 550.00 for cancel .
+fee usd 50.00 plus any difference in government imposed itinerary based fees .
+death certificate required .
+charge jpy 15000 .
+charge eur 100.00 .
+no show rules applplease see general rules on cancellation .
+charge eur 150.00 .
+use booking class hierarchy when replacing fares for flown fare components .
+member of a family travelling together .
+ticket downgrade procedures member .
+infant free of charge .
+local reissue/service fees may apply .
+cad190 applies per child .
+/ advp 7d / child/infant discounts apply .
+cancellations rules apply by fare component .
+note charge .
+charge usd 450.00 / cad 450.00 .
+child/infant discounts apply .
+when combining with different cancellation fees .
+cancellation .
+charge usd 550.00 .
+charge krw 140000 for cancel .
+see cancellations . .
+charge usd 500.00 .
+xac xpy xat .
+charge cad 250.00 for cancel .
+compartment by adult unaccompanied chd not permitted .
+charge usd 400.00 for cancel .
+exception 2 .
+death/illness provision .
+note member .
+charge hkd 1500 .
+penalty applies after issuance of tickets .
+compartment by adult 13 or older .
+charge usd 200.00 for cancel .
+charge krw 140000 .
+charge usd 400.00 .
+percent of the fare .
+of passenger or family member .
+charge cny 800 .
+embassy statement required .
+charge cad 400.00 for cancel .
+charge cad 400.00 .
+xat .
+name changes not permitted .
+charge jpy 10000 .
+charge cad 250.00 .
+charge aud 330.00 for cancel .
+note .
+ticket designator ch and percent of discount .
+charge usd 250.00 .
+fr/fu fx/fox br/bu bx/box bap bxn er/eu charge usd 250.00 .
+name changes are not permitted .
+charge eur 100.00 for cancel .
+surcharge applies to tickets issued worldwide .
+charge cny 1700 .
+charge hkd 2000 .
+charge cny 1000.0 .
+charge cny 750 .
+local service fee may apply .
+charge usd 100.00 .
+lost paper ticket charge usd100 .00 charge usd 40.00 for cancel .
+note changes and cancellations permitted .
+example .
+charge jpy 40000 .
+charge cny 1500 .
+for cancellation after departure member .
+passenger is responsible for any additional fare/tax on new ticket .
+note discounts apply note changes and cancellations permitted .
+charge cad 200.00 .
+customer first policy .
+charge cad 550.00 .
+apply the highest one .
+Cluster 20:
+for cancellation after departure the refund given will be the difference between the fare paid and the applicable fare for the journey flown ticket is non refundable in case of cancel/no show .
+for cancellation after departure the refund given will be the difference between the fare paid and the applicable fare for the journey flown
+for cancellation after departure the refund given will be the difference between the fare paid and the applicable fare for the member .
+for cancellation after departure the refund given will be the difference between the fare paid and the applicable fare for the journey flown note changes and cancellations permitted .
+for cancellation after departure the refund given will be the difference between the fare paid and the applicable fare for the journey flown member .
+for cancellation after departure the refund given will be the difference between the fare paid and the applicable fare for the all refunds must be processed through bsp by the ticketing agency .
+for cancellation after departure the refund given will be the difference between the fare paid and the applicable fare for the journey flown ticket is non refundable in case of cancel .
+for cancellation after departure the refund given will be the difference between the fare paid and the applicable fare for the journey flown charge usd 200.00 .
+Cluster 21:
+including adv res/tkt for outbound flights and min/max stapassenger must be rebooked in the same booking class as the original reservation .
+changes before departure must be made by the ticketing agent onlno changes are permitted to the passenger must be rebooked in the same booking class as the original reservation .
+the passenger must abide by all rules of the fare including advance res/tktg for the outbound flightthe passenger must be rebooked in the same booking class as the original reservation .
+the passenger must be rebooked in the same booking class as the original reservation or higher booking class within in case fare difference and change fees are paid by the passenger .
+the passenger must be rebooked in the same booki ng class as the original reservation .
+the passenger must be rebooked in the same or higher booking class as the original reservation .
+abide by all rules of the fare including advance res/tktg for the outbound flights and min/max stathe passenger must be rebooked in the same booking class as the original reservation .
+the passenger must be rebooked in the same booking class as the original reservation . .
+the passenger must be rebooked in the same booking class as the original reservation .
+all changes must be referred to and made by the ticketing agent onlchanges are permitted to the same booking class or higher hierarchy only .
+Cluster 22:
+if result is refund refund will be in the form of nonrefundable voucher if result is higher must add collect difference at time of reissue .
+must apply change feif result is refund refund will be in the form of nonrefundable voucher/mco .
+if result is refund refund will be in the form of nonrefundable dtv if result is higher must add collect difference at time of reissue .
+if result is refund refund will be in the form of non refundable voucher if different booking class / different fare family .
+if result is refund refund will be in the form of non refundable voucher if result is higher must add collect difference at time of reissue .
+if result is refund refund will be in the form of non refundable voucher n1169 .
+Cluster 23:
+if lower any difference in fare will be refunded to the original form of payment at time of reissue .
+if equal/higher collect the change fee and any difference in fare at time of reissue .
+if equal/higher collect any difference in fare at time of reissue .
+if result is higher must add collect difference at time of reissue . .
+if result is higher must add collect difference at time of reissue .
+if lower any difference in fare less the change fee will be returned to the passenger in a non refundable delta travel voucher at time of reissue .
+if multiple changes are made at the same time same day confirm does not appluse normal reissue procedures of paying any fare difference voluntary changeis made .
+Cluster 24:
+/ advp 7d / example an xac may be upgraded to an xab or abovyou may not use an xpy as it is on same level as the xac .
+example an xac may be upgraded to an xab / advp 7d / or abovyou may not use an xpy as it is on same level as the xac .
+example an xac may be upgraded to an xab / advp 3d / or abovyou may not use an xpy as it is on same level as the xac .
+example an xac may be upgraded to an xab or abovyou may not use an xpy as it is on same level as the xac .
+example an xac may be upgraded to an xab or abovyou may not use an xpy as it is on same level as the xac fr/fu fx/fox br/bu bx/box bap bxn er/eu xex xes xap xpx xaw xps xan xpl xab xpb xac xpy xat .
+Cluster 25:
+rules of the fare including advance reservation ticketing for the outbound flights and min max stay must be followecharges do not apply to infants under 2 yrs of age not occupying a seat .
+all refunds must be processed through arc by the ticketing agenpenalty does not apply to infants under 2 yrs of age not occupying a seat .
+all refunds must be processed through bsp by the ticketing agenpenalty does not apply to infants under 2 yrs of age not occupying a seat .
+all refunds must be processed through bsp by the ticketing agenpenalty does not apply to infants under 2yrs not occupying a seat .
+changes before departure must be made by the no changes are permitted to origin/destination or stopover pointchange charges do not apply to in fants under 2 yrs of age not occupying a seat .
+all changes must be processed through bsp/arc by the ticketing agenpenalty does not apply to infants under 2 yrs of age not occupying a seat .
+Cluster 26:
+refund the difference between the fare paid and the applicable fare for transportation used .
+refund the difference between the fare paid and the applicable fare for the transportation used less usd40 infant not occupying a seat is not assessed a charge .
+after departure refund the difference between the fare paid and less 15 percent of such difference .
+exception in case of death of the passenger or an immediate family member as evidence by a death certificate refund the difference between the fare paid and the fare for transportation used .
+Cluster 27:
+no service charge will be imposed for military passengers when transportation is paid with a government transportation request form n1169 .
+lost ticket paper charge usd100 .00 no service charge will be imposed for military passengers when transportation is paid with a government transportation request form n1169 .
+note no service charge will be imposed for military passengers when transportation is paid with a s. / advp 14d / government transportation request form n1169 .
+lost ticket paper charge usd100 .00 no service charge will be imposed for military government transportation request form n1169 .
+note no service charge will be imposed for military passengers when transportation is paid with a s. government transportation request form n1169 .
+Cluster 28:
+interline including the primary carrier free between dl and ws in canada in each direction .
+interline including the primary carrier free between dl and zk in msp in each direction .
+interline including the primary carrier free between dl and as in area 1 in each direction .
+interline including the primary carrier free between dl and ha in hawaii in each direction free between dl and yv in hawaii in each direction .
+Cluster 29:
+reissue no change to 1st ticketed flight / .
+if the ticked flight reservation is not cancelled prior to ticketed flight depature time rebooking is not permitted and ticket has no value . .
+reissue no change to 1st ticketed flight / wholly unused or partially used ticket .
+exchange change to 1st ticketed flight / wholly unused ticket .
+exchange change to 1st ticketed flight / wholly unused ticket two options exist when exchanging wholly unused ticket apply best result for passenger .
+Cluster 30:
+if the customer requests the change more than 3 hours prior to new flight departure time the customer can confirm on a different flight on the same day of ticketed travel by difference .
+if the customer requests the change more time the customer can confirm on a different flight on the same day of ticketed travel by paying the asc plus any applicable fare difference .
+if the customer requests the change more than 3 hours prior to new flight departure time the customer can confirm on a different by paying the asc plus any applicable fare difference .
+Cluster 31:
+attempt to keep the fares as tktd not chg org/dstn of any fare component must keep the original fares as tktd use historical fares in effect on date of original tkt issue for all rule validation .
+chgs to continuing/return of unused tkts attempt to keep the fares as tktd not chg org/dstn of any fare component must keep the original fares as tktd original tkt issue for all rule validation .
+chgs to partially used tkts options attempt to keep the fares as tktd no chg org/dstn of any fare component must keep all of the original fare as tktd .
+chgs to continuing/return of unused tkts attempt to keep the fares as tktd must keep the original fares as tktd use historical fares in effect on date of original tkt issue for all rule validation .
+Cluster 32:
+all rule data must be verified issue new tkt cancel/start over use current fares/verify all fare rules value of original tkt less chg fee may be applied toward purchase of a new tkt .
+all rule data must be verified issue new tkt cancel/start over use current fares/verify all fare rules applied toward purchase of a new tkt .
+issue new tkt cancel/start over use current fares/verify all fare rules value of original tkt less chg fee may be applied toward purchase of a new tkt .
+all rule data must be verified issue new tkt cancel/start over value of original tkt less chg fee may be applied toward purchase of a new tkt .
+Cluster 33:
+if changes are made to the first ticketed flight the provisions outlined under cancellation paragraph c below shall apply . .
+if at anytime changes requested by the passenger result in the itinerary no longer qualifying for the ticketed fare the provisions outlined under cancellation paragraph d shall apply .
+Cluster 34:
+change fee is subject to each change transaction waived for death of passenger or family member death certificate required .
+waived for death of passenger or family member .
+before departure of journey waived for death of passenger or family member .
+/ advp 7d / waived for illness or death of passenger or family member .
+waived for illness or death of passenger or family / advp 7d / member .
+waived for illness or death of passenger or family member .
+Cluster 35:
+if reservations and ticketing occur on the same day a full refund is permitted without penalty up to one day after ticket is purchased . .
+customer first policy if reservations and ticketing occur on the same day a full refund is permitted without penalty up to one day after ticket is purchased .
+customer first policy if reservations and ticketing occur on the same day a full refund is permitted without penalty up to one day after ticket is purchased . .
+xbb xpv/xpn xbn xpc customer first policy if reservations and ticketing occur on the same day a full refund is permitted without penalty up to one day after ticket is purchased .
+if reservations and ticketing occur on the same day a full refund is permitted without penalty up to one day after ticket is purchased .
+if reservations and ticketing occur on the same day a full refund is permitted without penalty .
+if reservation and ticketing occur on the last day that ticketing is allowed refund is permitted without penalty up to one day after ticket is purchased .
+Cluster 36:
+reservation cancelled prior to the originally scheduled flight retains ticket value less applicable cancellation fee in change paragraph up to one year from the original date of ticket issue . .
+note reservation cancelled prior to the originally scheduled flight retains ticket value/less applicable cancellation fee/up to one year from the original date of ticket issuance .
+reservation cancelled prior to the originally scheduled flight retains ticket value/less from the original date of ticket issuance .
+reservation cancelled prior to the originally scheduled flight retains ticket value/less applicable cancellation fee/up to one year from the original date of ticket issuance .
+Cluster 37:
+if upgd to economy eu/er or business bu/br or first fu/fr or if er type fare upg to business bu/br or first fu/fr type fare chg fee will not be assesseall rule provisions of new fare must be met . .
+Cluster 38:
+for information on ticket reissue procedures see delta/s international contract of carriage rule 81 rerouting section ii ticket is non refundable in case of cancel .
+for information on ticket reissue procedures see delta/s international contract of carriage rule 81 rerouting section ii charge usd 550.00 / cad 550.00 .
+for information on ticket reissue procedures see delta/s international contract of carriage rule 81 rerouting section ii charge 10 percent .
+for information on ticket reissue procedures see delta/s international contract of carriage rule 81 rerouting section ii charge 25 percent .
+Cluster 39:
+exception upgrade allowed to a fully flexible fare product within 24 hours at a charge of aud300 plus any difference in fare .
+exception upgrade allowed to a fully flexible fare product within 24 hours at a charge of aud200 plus any difference in fare .
+exception upgrade allowed to a fully flexible fare product within 24 hours at a charge of nzd300 plus any difference in fare .
+exception upgrade allowed to a fully flexible fare product within 24 hours at a charge of aud80 plus any difference in fare .
+exception upgrade allowed to a fully flexible fare product within 24 hours at a charge of nzd200 plus any difference in fare .
+Cluster 40:
+the original non refundable amount associated with this fare remains non refundablthe non refundable fare amount less the change non refundable voucher for travel governed by dl only .
+the original non refundable amount associated with this fare remains non refundablthe fee will be refunded in the form of a non refundable voucher for travel governed by dl only .
+the original non refundable amount associated with this fare remains non refundablthe non refundable fare amount less the change fee will be refunded in the form of a governed by dl only .
+Cluster 41:
+ticket downgrade procedures psgrs downgrading fares must keep originally booked itn no chg to date/time/org / desall rule provisions of new fare must be met .
+ticket downgrade procedures psgrs downgrading fares must keep originally booked itn n0 chg to date/time/org / desall rule provisions of new fare must be met .
+ticket downgrade procedures psgrs downgrading fares must keep originally booked itn no chg to date/time/org / desall rule provisions of new fare must be met . .
+psgrs downgrading fares must keep originally booked itn no chg to date/time/org / desall rule provisions of new fare must be met .
+Cluster 42:
+yr fee may apply any dl flight operated by mu any dl flight operated by cz applicable fare for traveapplies per adult .
+any dl flight operated by mu any dl flight operated by cz the applicable fare for departure from hkg airport .
+Cluster 43:
+the value of the ticket for the new itinerary is equal to or greater than the value of the ticket being exchanged .
+the value of the new ticket can be lower/equal/higher than the value of the original ticket .
+the value of the ticket for the new the value of the ticket being exchanged and .
+the value of the ticket for the new itinerary is equal to or greater than the value of the ticket being exchanged and ticket is within 1 year of the date the original ticket was issued . .
+the value of the ticket for the new itinerary is equal to or greater than the value of the ticket being exchanged and .
+Cluster 44:
+lost paper ticket charge usd100 .00 note changes are permitted anytime note unaccompanied child under 5 years of age will not be accepted for carriagservice charge for unaccompanied child applies .
+note unaccompanied child under 5 years of age will not be accepted for carriagservice charge for unaccompanied child applies .
+Cluster 45:
+note see / child/infant discount in fare rule to determine if applicable no change fee if under 2years of age not occupying a seat . .
+see / child/infant discount in fare rule to determine if applicable no change fee if under 2years of age not occupying a seat . .
+/ advp 50d / see / child/infant discount in fare rule to determine if applicable no change fee if under 2years of age not occupying a seat . .
+fr/fu fx/fox br/bu bx/box bap bxn er/eu xex xes note see / child/infant discount in fare rule to determine if applicable no change fee if under 2years of age not occupying a seat . .
+Cluster 46:
+ticketing code base fare code plus ch .
+compartment by adult 13 or older ticketing code base fare code plus in .
+ticket designator bncr ticketing code base fare code plus ch .
+compartment by adult 18 or older ticketing code base fare code plus ch .
+ticketing code base fare code plus in .
+Cluster 47:
+in case of no show charge rebook or refund fee in addition to no show fee changes fees application the change fee applies per transaction the change fee applies per fare component .
+Cluster 48:
+where changes are permitted the passenger must abide by all rules of the fare including advance all refunds must be processed through bsp by the ticketing agency .
+abide by all rules of the fare including advance res/tktg for the outbound flights and min/max stay .
+the passenger must abide by all rules of the fare including advance res/tkt .
+passengers must abide by all rules of the fare including advance res/tkg for the outbound flight and min/max stay .
+where changes are permitted the passenger must abide by all rules of the fare including advance res/tktg for the outbound flights and min/max stay .
+change charges do not apply to infants under 2yrs where changes are permitted the passenger must abide by all rules of the fare including advance res/tktg for the outbound flights and min/max stay .
+passenger must abide by all rules of the fare including adv res/tkt for outbound flights and min / max stay .
+where changes are permitted the passenger must abi de by all rules of the fare including advance res / tktg for the outbound flights and the min/max stay .
+where changes are permitted the passenger must abide by all rules of the fare including advance res/tktg for the outbound flts and min/max stay .
+where changes are permitted the passenger must abide by all rules of the fare including advance res/tktg for the outbound flight and min/max stay .
+where changes are permitted the passenger must res/tktg for the outbound flights and min/max stay .
+for cancellation after departure the refund given will be the difference between abide by all rules of the fare including advance res/tktg for the outbound flights and min/max stay .
+Cluster 49:
+changes are permitted for no fee provided the new itinerary meets all the fare rules including but not limited to min max stay/open jaw requirement / booking class etc. . .
+changes are permitted for applicable change fee provided the new itinerary meets all the fare rules including but not limited to min max stay / open jaw requirement/bkg class etc. . .
+Cluster 50:
+death waiver must be substantiated by a valid death certificate . .
+death waiver must be substantiated by a valid medical/death certificate .
+lost ticket application fee for paper tickets is usd100 .00 / cad100 .00 note illness/death waiver must be substantiated by a valid medical/death certificate .
+death waiver must be substantiated by a valid medical/death certificate . .
+illness/death waiver must be substantiated by a valid medical/death certificate . .
+Cluster 51:
+per ticket charge for lost ticket application is usd 100.00 / cad 1400 charge hkd 800 .
+per ticket charge for lost ticket application is usd 100.00 / cad 1400 charge hkd 1600 .
+per ticket charge for lost ticket application is usd 100.00 / cad 1400 charge usd 250.00 .
+per ticket charge for lost ticket application is usd 100.00 / cad 1400 charge hkd 1500 .
+per ticket charge for lost ticket application is usd 100.00 / cad 1400 charge hkd 3000 .
+per ticket charge for lost ticket application is usd 100.00 / cad 1400 charge cny 750.0 .
+per ticket charge for lost ticket application is usd 100.00 / cad 1400 charge cny 1500 .
+per ticket charge for lost ticket application is usd 100.00 / cad 1400 charge usd 300.00 .
+per ticket charge for lost ticket application is usd 100.00 / cad 1400 charge usd 450.00 .
+per ticket charge for lost ticket application is usd 100.00 / cad 1400 charge aud 250.00 .
+per ticket charge for lost ticket application is usd 100.00 / cad 1400 charge usd 50.00 .
+per ticket charge for lost ticket application is usd 100.00 / cad 1400 charge cny 1500.0 .
+per ticket charge for lost ticket application is usd 100.00 / cad 1400 charge cad 400.00 .
+per ticket charge for lost ticket application is usd 100.00 / cad 1400 charge aud 200.00 .
+per ticket charge for lost ticket application is usd 100.00 / cad 1400 charge usd 450.00 / cad 450.00 .
+per ticket charge for lost ticket application is usd 100.00 / cad 1400 charge usd 400.00 .
+per ticket charge for lost ticket application is usd 100.00 / cad 1400 charge eur 150.00 / usd 200.00 .
+per ticket charge for lost ticket application is usd 100.00 / cad 1400 charge cad 450.00 .
+per ticket charge for lost ticket application is usd 100.00 / cad 1400 one reservations change permitted before departure and one after departure .
+per ticket charge for lost ticket application is usd 100.00 / cad 1400 one reservations change permitted after departure .
+per ticket charge for lost ticket application is usd 100.00 / cad 1400 charge cny 750 .
+Cluster 52:
+xbb xpv/xpn xbn xpc ticket is non refundable in case of cancel/no show .
+xbb xpv/xpn xbn xpc ticket is non refundable in case of cancel .
+lost ticket application fee for paper tickets is usd100 .00 / cad100 .00 ticket is non refundable in case of cancel .
+lost ticket application fee for paper tickets is usd100 .00 / cad100 .00 ticket is non refundable in case of cancel/no show .
+ticket is non refundable in case of cancel .
+ma ticket is non refundable in case of cancel .
+ticket is non refundable in case of cancel/no show .
+may chang ticket is non refundable in case of cancel .
+per ticket charge for lost ticket application is usd 100.00 / cad 1400 ticket is non refundable in case of cancel .
+may cha ticket is non refundable in case of cancel .
+may change ticket is non refundable in case of cancel .
+Cluster 53:
+fr/fu fx/fox br/bu bx/box bap bxn er/eu xex xes fare type heirarchy fare type may be upgd to another fare type on a level up from its own .
+Cluster 54:
+adv purchase by calculating number of days between original tkt issue date and date of dptr of first flt segmenthe adv purchase than this number .
+adv purchase by calculating number of days between original tkt issue date and date of dptr of first flt segmenthe adv purchase of replacement fares must be equal or less than this number .
+adv purchase by calculating number of days between original tkt issue date and date of of replacement fares must be equal or less than this number .
+Cluster 55:
+after travel has commenced a one way ticket may not be reissued to a round trip/circle trip or open jaw trip ticket .
+a one way ticket may not be reissued into a round trip/circle trip or open jaw ticket .
+Cluster 56:
+original non refundable amount associated with this fare remains non refundable and must be noted in the endorsement box .
+with this fare remains non refundable and must be noted in the endorsement box .
+the original non refundable amount associated be noted in the endorsement box .
+the original non refundable amount associated with this fare remains non refundable and must be noted in the endorsement box .
+Cluster 57:
+xbb xpv/xpn xbn xpc charge jpy 40000 .
+xbb xpv/xpn xbn xpc charge cny 1000.0 .
+xbb xpv/xpn xbn xpc charge cny 1000 .
+xbb xpv/xpn xbn xpc charge aud 550.00 for cancel .
+xbb xpv/xpn xbn xpc charge jpy 30000 .
+xbb xpv/xpn xbn xpc charge usd 250.00 / cad 250.00 .
+xbb xpv/xpn xbn xpc charge jpy 10000 .
+xbb xpv/xpn xbn xpc charge usd 100.00 .
+Cluster 58:
+tickets must be reissued when any voluntary change is madchange fee plus any difference in fare must be collected at time of change or change will not be permitted . .
+tickets must be reissued when any voluntary change / advp 7d / is madchange fee plus any difference in fare must be collected at time of change or change will not be permitted . .
+change is madthe fee and any difference in fare must be collected at time of change or the change will not be permitted . .
+tickets must be reissued when any voluntary change is madthe fee and any difference in fare must be collected at time of change or the change will not be permitted . .
+tickets must be reissued when any voluntary change is madany difference in fare must be collected at time of change or the change will not be permitted . .
+tickets must be reissued when any voluntary change is madchange fee plus any difference in fare must be collected at time of change or change will not be permitted .
+tickets must be reissued when any voluntary change is madchange fee plus any difference in fare must be collected at time of change or change will / advp 50d / not be permitted . .
+Cluster 59:
+any difference in fare less the applicable asc must be returned in a nonrefundable dtv/mco good for one year to the passenger named on the ticket .
+any difference in fare less the applicable asc must be returned in a nonrefundable dtv/mco good for one year to the passenger named on the ticket . .
+Cluster 60:
+the exchange of original ticket for new ticket is within 1 year of the date the original ticket was issued .
+the exchange of original ticket for new ticket is within 1 year of the date the original ticket was issued . .
+exchange of original ticket for new ticket is within 1year of date original ticket was issued .
+Cluster 61:
+when more than one fare component is being changed the highest penalty of all changed fare components will apply . .
+when more than one fare component is changed the highest penalty of any of the changed fare components will apply .
+Cluster 62:
+reprice keeping fares for flown fare components using historical fares may chg org/dstn of any fare component use historical fares in effect on date of original tkt issue and modified adv purchase .
+Cluster 63:
+in the case of involuntary downgrade from business class to economy class the refund will be calculated from the prorated value at 50pct of the coupon involved .
+in the case of involuntary downgrades from business class to economy class the refund will be calculated from the prorated value at 50 percent of the coupon involved .
+in case of involuntary downgrades from business class to economy class the refund will be calculated from the prorated value at 50pct of the coupon involved .
+Cluster 64:
+fr/fu fx/fox br/bu bx/box bap bxn er/eu xex xes xap xpx xaw xps xan xpl xab xpb xac xpy ticket is non refundable in case of cancel/no show .
+fr/fu fx/fox br/bu bx/box bap bxn er/eu xex xes xap xpx xaw xps xan xpl xab xpb xac xpy / advp 3d / ticket is non refundable in case of cancel .
+fr/fu br/bu bx/box bap bxn er/eu xex xes xap xpx xaw xps xan xpl xab xpb xac xpy ticket is non refundable in case of cancel/no show .
+fr/fu fx/fox br/bu bx/box bap bxn er/eu xex xes xap xpx xaw xps xan xpl xab xpb xac xpy ticket is non refundable in case of cancel .
+Cluster 65:
+note all tickets must be reissued see / child/infant discount / in fare rule to determine if applicable no change fee if ticket designator ch ticket designator ch ticket designator in .
+Cluster 66:
+original refund conditions apply to any upgraded tickewhen the itinerary results in a higher fare the difference will be collectewhen the itinerary results in a lower fare no refund will be made .
+Cluster 67:
+whichever option provides the best result for the passenger must be applieif cancel penalty and change fee are the same only option 1 is applicable .
+whichever option provides the best result for the change fee are the same only option 1 is applicable .
+whichever option provides the best result for the passenger must be applieif cancel penalty and applicable .
+Cluster 68:
+if an infant turns 2 years enroute a booked seat will be required due to safety regulations and a full child fare ticket must be purchased for the entire journey .
+has commenced but before travel is complete a full child fare ticket must be purchased for the entire journey .
+Cluster 69:
+if a ticket is exchanged or reissued a wholly unused ticket must be exchanged within the original validity period of 1 year and will be given a new ticket issue date based on the date of exchange .
+Cluster 70:
+fee may be waived in case of illness of passenger or traveling companion or death of passenger / immediate family/traveling companion per death / ill provisions as defined in nw/kl general rule 4 .
